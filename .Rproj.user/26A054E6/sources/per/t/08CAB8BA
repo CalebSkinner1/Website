@@ -3,7 +3,7 @@
     "path": "~/Desktop/Rock Chucks/Website/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "100550717",
+    "hash": "2428983264",
     "contents": "",
     "dirty": false,
     "created": 1723834597804.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "143:0",
-        "cursorPosition": "21,0",
-        "scrollLine": "13"
+        "cursorPosition": "22,165",
+        "scrollLine": "15"
     },
     "folds": "",
-    "lastKnownWriteTime": 1723842692,
+    "lastKnownWriteTime": 1723844517,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1723842692637,
+    "last_content_update": 1723844517919,
     "read_only": false,
     "read_only_alternatives": []
 }
