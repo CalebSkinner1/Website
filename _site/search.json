@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! I am a first-year PhD student in the Department of Statistics at Rice University. I moved to Houston after graduating with my bachelor’s degree from Baylor University in the Spring 2024.\nI am interested in a variety of statistical fields including Time Series Analysis, Bayesian Statistics, Casual Inference, and Survival Analysis.\n\ninterests"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Baylor University – Waco, Texas\n\nBachelor of Business Administration, May 2024\nMajors: Statistics, Economics, Mathematics\nGPA: 3.97 out of 4.00\nGetterman Scholar\n\nRice University – Houston, Texas\n\nM.S in Statistics (ongoing)\nPhD in Statistics (ongoing)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Caleb A. Skinner - About Me",
+    "section": "",
+    "text": "Hello! I am a first-year PhD student in the Department of Statistics at Rice University. I moved to Houston after graduating with my Bachelor’s degree from Baylor University in the Spring 2024.\nI’ve always been a curious person, and, for me, statistics is an exciting instrument to uncover relationships and explore unanswered questions in this world. I chose a rigorous PhD program at Rice in order to be equipped to answer these questions. I am interested in a variety of statistical fields including Time Series Analysis, Bayesian Statistics, Casual Inference, and Survival Analysis.\n\n\nIf I’m not modelling or dreaming of statistics, I like to cook with my wife, Sarah, or play a board game with some friends. I love playing and watching tennis, and on Sunday morning, you’ll find me at my church, Sojourn Montrose. I grew up in Phoenix, Arizona, and I will always agree to a good desert hike.\nFor more information, check out my GitHub and LinkedIn.\nPlease feel free to reach out to me at calebskinner01@gmail.com!"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Work Experience",
+    "section": "",
+    "text": "Undergraduate Economics Research Assistant (2023)\n\nResearched and developed a data set for Dr. Mark Hoekstra for an Economic Research paper he hopes to publish.\n\nLegal Assistant at Gallagher & Kennedy Law Office in Phoenix, AZ (Summer 2021)\n\nWorked directly with Attorneys Shannon Clark and Matt Boatman. Researched dense material for more than 10 personal injury cases. Documented, summarized, and created reports for several depositions, financial documents, and medical records. Communicated with other law firms and businesses to retrieve documents and needed information."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Skinner, C.; Sturdivant, R. (2024), “Is Momentum Real: On the Existence and Influences of Psychological Momentum in Tennis”\n\nUndergraduate Thesis measuring and analyzing psychological momentum under the direction of Dr. Rodney Sturdivant. The thesis is in the process of being transformed into a publishable paper.\n\nSCORE Network Material Developer (Summer 2023)\n\nResearched and compiled formulas, explanations, and examples fit for teaching cluster analysis, inter-rater reliability, and logistic regression. Developed three 20-50-page interactive lesson plans using extensive data from three sports.\n\nSports Analytics Club – Vice President (2021-2023)\n\nCollaborated with Statistics PhD student Ryan Hebdon to develop a website (with R’s ShinyApp) filled with numerous interactive visualizations and tables utilized by Baylor baseball’s staff.\n\nGlobal Health Survey (2021-2022)\n\nProduced ~50 pages of visualizations and statistical analysis for a research paper assessing the state of Global Health among undergraduate students.\n\nFootball Analytics Blitz (2022)\n\nAnalyzed NFL data from 2021 to create a comprehensive game-strategy in Syracuse University’s case competition. Produced visualizations justifying decisions and presented conclusions to a panel of judges."
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills",
+    "section": "",
+    "text": "R/RStudio\nQuarto\nGitHub\nPython\nLaTeX"
+  }
+]
