@@ -4,7 +4,7 @@ title: "Projects"
 
 I am interested in a wide variety of statistical topics, but recently I have taken a particular liking to the Bayesian paradigm. Here are a brief list of some projects I have worked on recently. For more projects, please see my [GitHub](https://github.com/CalebSkinner1).
 
-**[Sleeper Bayesian**](https://github.com/CalebSkinner1/SleeperBayesian) **(2024)**
+[**Sleeper Bayesian**](https://github.com/CalebSkinner1/SleeperBayesian) **(2024)**
 -   With fellow PhD student, Daniel Illera, we model NBA player fantasy performance with a Bayesian normal hierarchical model. We then apply Game Theory principals to develop decision boundaries for fantasy users to optimize their performance.
 
 **Ensemble Forecasting** - *In progress*
