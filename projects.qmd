@@ -5,9 +5,11 @@ title: "Projects"
 I am interested in a wide variety of statistical topics, but recently I have taken a particular liking to the Bayesian paradigm. Here are a brief list of some projects I have worked on recently. For more projects, please see my [GitHub](https://github.com/CalebSkinner1).
 
 [**Sleeper Bayesian**](https://github.com/CalebSkinner1/SleeperBayesian) **(2024)**
+
 -   With fellow PhD student, Daniel Illera, we model NBA player fantasy performance with a Bayesian normal hierarchical model. We then apply Game Theory principals to develop decision boundaries for fantasy users to optimize their performance.
 
 **Ensemble Forecasting** - *In progress*
+
 -   Working with Dr. Meng Li, this project applies two novel ensemble forecasting methods, partially-egalitarian lasso (Diebold & Shin, 2019) and double-spiked dirichlet priors (Lin & Li, 2022), to expert forecasts of the quarterly unemployment rate and quarterly treasury bill rate. Both methods aim to shrink the forecaster pool and optimize the weight of the forecasters. Initial results show that the double-spiked dirichlet priors method provides preferable results.
 
 **Skinner, C.; Sturdivant, R. (2024), “Is Momentum Real: On the Existence and Influences of Psychological Momentum in Tennis"**
