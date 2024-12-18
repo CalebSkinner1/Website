@@ -5,6 +5,7 @@ title: "Skills"
 -   R/RStudio
 -   Quarto
 -   GitHub
+-   LaTeX
 -   Python
 -   STATA
--   LaTeX
+

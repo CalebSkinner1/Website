@@ -6,6 +6,8 @@ title: "Education"
 
 -   Bachelor of Business Administration, May 2024
 -   Majors: Statistics, Economics, Mathematics
+-   Minor: Political Science
+-   Honors Program, Baylor Business Fellow
 -   GPA: 3.97 out of 4.00
 -   Getterman Scholar
 
@@ -13,3 +15,4 @@ title: "Education"
 
 -   M.S in Statistics (ongoing)
 -   PhD in Statistics (ongoing)
+-   GPA: 4.00 out of 4.00
