@@ -2,6 +2,9 @@
 title: "Work Experience"
 ---
 
+**Teaching Assistant (2024)**
+-   As part of Rice's PhD program, I serve as a teaching assistant for undergraduate classes.
+
 **Undergraduate Economics Research Assistant (2023)**
 
 -   Researched and developed a data set for Dr. Mark Hoekstra for an Economic Research paper he hopes to publish.
