@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Caleb Skinner"
@@ -22,5 +23,5 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 
