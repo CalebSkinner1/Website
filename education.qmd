@@ -2,6 +2,13 @@
 title: "Education"
 ---
 
+**Rice University – Houston, Texas**
+
+-   M.S in Statistics (ongoing)
+-   PhD in Statistics (ongoing)
+-   GPA: 3.91 out of 4.00
+-   Advisor: Dr. Meng Li
+
 **Baylor University – Waco, Texas**
 
 -   Bachelor of Business Administration, May 2024
@@ -10,9 +17,3 @@ title: "Education"
 -   Honors Program, Baylor Business Fellow
 -   GPA: 3.97 out of 4.00
 -   Getterman Scholar
-
-**Rice University – Houston, Texas**
-
--   M.S in Statistics (ongoing)
--   PhD in Statistics (ongoing)
--   GPA: 4.00 out of 4.00

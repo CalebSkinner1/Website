@@ -7,5 +7,4 @@ title: "Skills"
 -   GitHub
 -   LaTeX
 -   Python
--   STATA
 

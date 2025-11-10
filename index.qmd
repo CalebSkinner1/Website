@@ -8,9 +8,9 @@ title: "Caleb A. Skinner - About Me"
 :::
 
 ::: g-col-9
-Hello! I am a first-year PhD student in the Department of Statistics at Rice University. I moved to Houston after graduating with my Bachelor's degree from Baylor University in the Spring 2024.
+Hello! I am a second year PhD student in the Department of Statistics at Rice University. I moved to Houston after graduating with my Bachelor's degree from Baylor University in the Spring 2024.
 
-I've always been a curious person, and, for me, statistics is an exciting instrument to uncover relationships and explore unanswered questions in this world. I chose a rigorous PhD program at Rice in order to be equipped to answer these questions. I am interested in a variety of statistical fields including Time Series Analysis, Bayesian Statistics, Casual Inference, and Survival Analysis.
+I've always been a curious person, and, for me, statistics is an exciting instrument to uncover relationships and explore unanswered questions in this world. I chose a rigorous PhD program at Rice in order to be equipped to answer these questions. My current research focuses on Bayesian variable/model selection with applications in finance and genomics.
 :::
 :::::
 
