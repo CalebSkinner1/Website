@@ -10,14 +10,15 @@ I am interested in a wide variety of statistical topics, but recently I have tak
 
 **Skinner, C.; Li, Meng (2025), "Exact Partial Constancy Prior for Structured Ensemble Forecasting"** - *working paper*
 
--   Propose a widely applicable exact partial constancy prior for ensembling and forecast aggregation. Paper features specific applications to expert forecasts of unemployment rate and treasury bill rate in the United States.
+-   Proposes a widely applicable exact partial constancy prior for a principled Bayesian approach to forecast aggregation and ensemble learning. Paper features specific applications to expert forecasts of unemployment rate and treasury bill rate in the United States.
 
 **Skinner, C.; Sturdivant, R. (2024), “Is Momentum Real: On the Existence and Influences of Psychological Momentum in Tennis"**
 
--   Undergraduate Thesis measuring and analyzing psychological momentum under the direction of Dr. Rodney Sturdivant. You can find the final document [here](https://github.com/CalebSkinner1/TennisMomentum).
+-   Undergraduate Thesis measuring and analyzing psychological momentum under the direction of Dr. Rodney Sturdivant. Defining momentum as the backward approximation of the derivative of the players’ smoothed point margin curve, we find that a player’s momentum entering a point has a significant impact on his or her likelihood of winning the next point. You can find the full document [here](https://github.com/CalebSkinner1/TennisMomentum).
 
 [**SCORE Network**](https://scorenetwork.org) **Material Developer (Summer 2023)**
 
+-   Skinner, C, Patrick, J, Bryson, C. & Sturdivant, R. (2025, June 16). Mixed Martial Arts - Interrater Reliability. "The SCORE Network." [https://doi.org/10.17605/OSF.IO/F8VBQ](https://doi.org/10.17605/OSF.IO/F8VBQ)
 -   Researched and compiled formulas, explanations, and examples fit for teaching [cluster analysis](https://github.com/CalebSkinner1/NBACluster), [inter-rater reliability](https://github.com/CalebSkinner1/MMAKappa), and [logistic regression](https://github.com/CalebSkinner1/TennisLogistic). Developed three 20-50-page interactive lesson plans using extensive data from three sports.
 
 **Sports Analytics Club – Vice President (2021-2023)**
