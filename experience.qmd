@@ -11,7 +11,7 @@ title: "Work Experience"
 
 [**SCORE Network**](https://scorenetwork.org) **Material Developer (Summer 2023)**
 
--   Developed three extensive interactive lesson plans communicating statistical concepts ([cluster analysis](https://github.com/CalebSkinner1/NBACluster), [inter-rater reliability](https://github.com/CalebSkinner1/MMAKappa), and [logistic regression](https://github.com/CalebSkinner1/TennisLogistic))
+-   Developed three extensive interactive lesson plans communicating statistical concepts ([cluster analysis](https://github.com/CalebSkinner1/NBACluster), [inter-rater reliability](https://github.com/CalebSkinner1/MMAKappa), and [logistic regression](https://github.com/CalebSkinner1/TennisLogistic)).
 -   Produced interactive and engaging modules utilizing R-Markdown and ISLE.
 
 **Undergraduate Economics Research Assistant (2023)**
