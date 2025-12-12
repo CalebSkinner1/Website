@@ -23,6 +23,7 @@ Here are a brief list of some projects I have worked on recently.
 ### Other Research Projects
 
 [**Detecting Presence of Brain Aneurysms**](https://github.com/CalebSkinner1/Detecting-Presence-of-Brain-Aneurysms) **(2025)**
+
 -   Develop a deep learning pipeline for identification and localization of brain aneurysms from three-dimensional brain scans. Pre-processed multi-modal scans and implemented a two-step 3-D Convolutional Neural Network with modern block architecture.
 
 **Sparse Trustworthy Variational Bayes (2025)**
