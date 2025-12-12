@@ -1,3 +1,3 @@
 ## Website
 
-This GitHub Page stores my personal website! Each of the qmd files contains a tab in the website.
+This GitHub Repo hosts my personal website! Each of the qmd files corresponds to a tab in the website.

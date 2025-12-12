@@ -4,10 +4,10 @@ title: "Education"
 
 **Rice University – Houston, Texas**
 
--   M.S in Statistics (ongoing)
 -   PhD in Statistics (ongoing)
--   GPA: 3.91 out of 4.00
 -   Advisor: Dr. Meng Li
+-   GPA: 3.96 out of 4.00
+-   Qualifying Exam: Passed
 
 **Baylor University – Waco, Texas**
 
@@ -16,4 +16,4 @@ title: "Education"
 -   Minor: Political Science
 -   Honors Program, Baylor Business Fellow
 -   GPA: 3.97 out of 4.00
--   Getterman Scholar
+-   Getterman Scholar – Full Ride Scholarship

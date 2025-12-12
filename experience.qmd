@@ -2,13 +2,21 @@
 title: "Work Experience"
 ---
 
-**Teaching Assistant (2024-2025)**
--   As part of Rice's PhD program, I serve as a teaching assistant for undergraduate classes.
--   Courses 
+**Teaching Assistant at Rice University (2024-2025)**
+
+-   Courses: STAT 310 - Probability and Statistics (twice); STAT 482 - Quantitative Financial Analytics.
+-   Led study sessions and office hours for undergraduate statistics.
+-   Developed exam questions.
+-   Grading assignments.
+
+[**SCORE Network**](https://scorenetwork.org) **Material Developer (Summer 2023)**
+
+-   Developed three extensive interactive lesson plans communicating statistical concepts ([cluster analysis](https://github.com/CalebSkinner1/NBACluster), [inter-rater reliability](https://github.com/CalebSkinner1/MMAKappa), and [logistic regression](https://github.com/CalebSkinner1/TennisLogistic))
+-   Produced interactive and engaging modules utilizing R-Markdown and ISLE.
 
 **Undergraduate Economics Research Assistant (2023)**
 
--   Researched and developed a data set for Dr. Mark Hoekstra.
+-   Compiled a large data set composed of results from academic papers for a meta-research study under Dr. Mark Hoekstra.
 
 **Legal Assistant at Gallagher & Kennedy Law Office in Phoenix, AZ (Summer 2021)**
 
