@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-My research studies model selection and ensemble nethods, primarily from a Bayesian perspective, with applications in medicine and finance.
+My research studies model selection and ensemble methods, primarily from a Bayesian perspective, with applications in medicine and finance.
 
 ### Preprints and Working Papers
 

@@ -27,7 +27,9 @@ Most Outstanding Undergraduate in Statistics, 2024
 ### Technical Skills
 
 **Languages:** R, Python, LaTeX
+
 **Tools:** Stan, PyTorch, Shiny, tidyverse, Git, R Markdown/Quarto
+
 **Computing:** Linux/bash, remote compute clusters, GPU training
 
 **Baylor University – Waco, Texas**

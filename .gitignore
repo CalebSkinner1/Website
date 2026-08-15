@@ -5,3 +5,6 @@
 /.Rproj.user
 skinner_cv.docx
 .Rhistory
+_site/
+
+**/*.quarto_ipynb
