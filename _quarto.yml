@@ -1,26 +1,39 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "*.pdf"
 
 website:
   title: "Caleb Skinner"
+  favicon: favicon.png
+  open-graph: true
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - education.qmd
-      - projects.qmd
-      - experience.qmd
-    other-links:
-      - text: GitHub
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching and Mentorship
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
         href: https://github.com/CalebSkinner1
+      - icon: linkedin
+        href: https://www.linkedin.com/in/calebskinner1
+  page-footer:
+    center: "Last updated August, 2026"
       
 
 format:
   html:
-    theme: sandstone
+    theme:
+      light: sandstone
+      dark: darkly
     css: styles.css
-    toc: true
+    toc: false
 
 editor: source
 

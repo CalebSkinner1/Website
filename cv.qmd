@@ -1,0 +1,49 @@
+---
+title: "Curriculum Vitae"
+---
+
+[**Download CV (PDF)**](skinner_cv.pdf)
+
+*Last updated August, 2026.*
+
+### Education
+
+**Rice University** — Houston, TX
+
+PhD in Statistics, expected May 2029 (M.S. earned en route)
+
+Advisor: [Dr. Meng Li](https://meng.rice.edu) | Qualifying exam passed, Summer 2025 | GPA: 3.97
+
+**Baylor University** — Waco, TX
+
+Bachelor of Business Administration, May 2024
+
+Majors: Statistics, Economics, Mathematics, Business Fellows | Minor: Political Science
+
+Honors Program · Getterman Scholar (full scholarship) | Crane Scholar | GPA: 3.97
+
+Most Outstanding Undergraduate in Statistics, 2024
+
+### Technical Skills
+
+**Languages:** R, Python, LaTeX
+**Tools:** Stan, PyTorch, Shiny, tidyverse, Git, R Markdown/Quarto
+**Computing:** Linux/bash, remote compute clusters, GPU training
+
+**Baylor University – Waco, Texas**
+
+-   Bachelor of Business Administration, May 2024
+-   Majors: Statistics, Economics, Mathematics
+-   Minor: Political Science
+-   Honors Program, Baylor Business Fellow
+-   GPA: 3.97 out of 4.00
+-   Getterman Scholar – Full Ride Scholarship
+
+<br>
+
+```{=html}
+<iframe src="skinner_cv.pdf" width="100%" height="800px" style="border: 1px solid #ddd;">
+  <p>Your browser doesn't support embedded PDFs.
+  <a href="skinner_cv.pdf">Download the CV instead.</a></p>
+</iframe>
+```

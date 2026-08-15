@@ -1,0 +1,66 @@
+---
+title: "Research"
+---
+
+My research studies model selection and ensemble nethods, primarily from a Bayesian perspective, with applications in medicine and finance.
+
+### Preprints and Working Papers
+
+**Skinner, C.**, Guo, Y., & Li, M. (2026). LLM Sparsity Prior for Robust Feature Selection. Under review. [arXiv](https://arxiv.org/abs/2605.23102) | [GitHub](https://github.com/CalebSkinner1/LLMSparsityPrior)
+
+Integrates LLM-derived feature importance weights into spike-and-slab and spike-and-slab lasso priors, with a hierarchical structure that discounts unreliable weights.
+
+::: {.callout-note collapse="true" title="Abstract"}
+Large language models (LLMs) offer a scalable mechanism to elicit domain-informed prior information for high-dimensional variable selection. However, existing methods such as *LLM-Lasso* are sensitive to weight quality, with performance degrading substantially when LLM-generated weights are inaccurate. To address this challenge, we first introduce a framework for quantifying the quality of LLM-generated weights, enabling rigorous evaluation of LLM-informed methods across varying weight regimes. We then propose the **LLM Sparsity Prior (LSP)**, which integrates LLM-generated weights into the prior inclusion probabilities of Spike-and-Slab and Spike-and-Slab Lasso models via two interpretable hyperparameters governing global sparsity and weight concentration. Hierarchical hyperpriors on these parameters allow the model to dynamically discount uninformative or misleading weights, improving robustness without sacrificing gains when weights are accurate. Finally, we develop principled prompt engineering strategies and validate the method on a private medical dataset studying acute kidney injury. LSP improves prediction accuracy and identifies clinically relevant features missed by the baselines, with robustness to prompt variation and particular effectiveness in low-data regimes.
+:::
+
+**Skinner, C.**, & Li, M. Exact Partial Constancy Prior for Structured Ensembles. In preparation.
+
+Develops a Bayesian framework for predictor aggregation across data types, with applications to ensemble learning and forecast aggregation.
+
+::: {.callout-note collapse="true" title="Abstract"}
+Aggregating predictions from a pool of models or experts is a fundamental inference problem with broad applications in forecast combination, model averaging, and ensemble learning. Long-established theoretical and empirical findings demonstrate that equally weighted subsets of the predictor pool outperform alternatives, yet existing strategies impose these constraints through inefficient two-step procedures and are restricted to certain prediction types. We propose the *Exact Partial Constancy (EPC) prior*, a principled Bayesian framework that simultaneously induces sparsity and exact partial constancy (equal weighting) on the high-dimensional probability simplex. The EPC prior applies broadly to varying prediction types: point-estimates, predictive densities, and class labels, without requiring knowledge of each predictor's internal structure. Closed-form posterior model probabilities are established as consistent across all three prediction types and enable direct, deterministic evaluation of the posterior model space, supporting a rich posterior summary. For settings where full enumeration is computationally infeasible, we develop an efficient Markov chain Monte Carlo algorithm for rapid exploration of the posterior model space. Simulation studies confirm the EPC prior's reliable structure recovery and model uncertainty quantification across a range of challenging scenarios, while empirical applications across prediction types demonstrate the superior out-of-sample predictive accuracy and uncertainty quantification of the EPC prior.
+:::
+
+**Skinner, C.**, Shi, H., & Luo, H. Optimism for Ensemble Regression. In preparation.
+
+Derives the expected optimism for least squares ensembles under differing covariance structures. Insights are applicable to several ensemble techniques such as random forests and boosting.
+
+
+### Peer-Reviewed Educational Materials
+
+**Skinner, C.**, Patrick, J., Bryson, C., & Sturdivant, R. (2025). Mixed Martial Arts - Interrater Reliability. *The SCORE Network.* [DOI](https://doi.org/10.17605/OSF.IO/F8VBQ)
+
+Interactive teaching tool details interrater reliability using data from Mixed Martial Arts judges.
+
+### Selected Projects
+
+[**Fantasy Dynasty**](https://github.com/CalebSkinner1/FantasyDynasty) —- *ongoing, 2024–present* · [Live dashboard](https://calebskinner.shinyapps.io/fantasy-dashboard/)
+
+End-to-end system for valuing players, draft picks, and teams in a dynasty fantasy football league. Builds a value-added metric measuring each player's contribution over a position-specific replacement, then projects future value with BART models and 10-year career simulations, modeling heteroskedastic residual variance with a GAM. Draft picks are valued through Bayesian polynomial regression with a custom Metropolis–Hastings sampler, and team standings are projected by simulating remaining weeks 5,000 times. Data is scraped and merged from four sources; results are served through a deployed R Shiny dashboard.
+
+[**Brain Aneurysm Detection and Localization**](https://github.com/CalebSkinner1/Detecting-Presence-of-Brain-Aneurysms) -- *course project, Fall 2025*
+
+Deep learning pipeline for identifying and localizing brain aneurysms in three-dimensional scans. Pre-processed multi-modal scans and implemented a two-step 3-D convolutional neural network with modern block architecture.
+
+**Sparse Trustworthy Variational Bayes** -- *course project, Spring 2025*
+
+Extended Trustworthy Variational Bayes (Liu and Li, 2024) to the discrete spike-and-slab prior (Ray and Szabo, 2022), addressing variance underestimation and improving coverage of variational credible intervals.
+
+[**Model Averaged Doubly Robust Estimator**](https://github.com/CalebSkinner1/ModelAveragedDR) -- *course project, Spring 2025*
+
+Three-part simulation study comparing the model averaged doubly robust estimator (Cefalu et al., 2017) against stepwise model selection and Bayesian Adjustment for Confounding (Wang et al., 2012).
+
+**Sleeper Bayesian** -- *course project, 2024*
+
+Normal Bayesian hierarchical model estimating NBA player performance, with game-theoretic decision boundaries for fantasy basketball roster decisions. *Repository available on request.*
+
+**Baseball Analytics Application, Baylor Sports Analytics Club** -- *2021-2023*
+
+Built and deployed an R Shiny application delivering interactive visualizations and predictive tables used by the Baylor baseball coaching staff. Developed with Ryan Hebdon (Statistics PhD student).
+
+### Undergraduate Honors Thesis
+
+**Skinner, C.** & Sturdivant, R. (2024). *Is Momentum Real: On the Existence and Influences of Psychological Momentum in Tennis.* Baylor University. [Full Text](https://hdl.handle.net/2104/12634)
+
+Defines momentum as the backward approximation of the derivative of the players’ smoothed point margin curve, and finds that a player’s momentum entering a point significantly impacts their likelihood of winning it.

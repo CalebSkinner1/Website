@@ -1,0 +1,29 @@
+---
+title: "Teaching and Mentorship"
+---
+
+**NSF Research Experience for Teachers (RET), Rice University – Graduate Mentor** -- *Summer 2026*
+
+Directed a six-week research project applying statistical inference, regression modeling, and multiple comparison procedures to an acute kidney injury clinical dataset, mentoring a high school mathematics teacher from research question formulation to final poster.
+
+**Data to Knowledge Lab — Mentor, Rice University** -- *Spring 2026*
+
+Mentored a team of six undergraduates through a semester research project, meeting twice weekly to guide their application of statistical inference, text clustering, and dashboard development to work orders for a facilities management client. The team delivered a poster presentation and an interactive dashboard.
+
+**Teaching Assistant, Rice University** -- *Fall 2024-Spring 2026*
+
+Led weekly study sessions and office hours, developed exam questions, and graded assignments for undergraduate and graduate courses.
+
+-   STAT 310: Probability and Statistics (2 semesters)
+-   STAT 482: Quantitative Financial Analysis
+-   STAT 519: Statistical Inference (graduate)
+
+[**SCORE Network**](https://scorenetwork.org) **Material Developer** -- *Summer 2023*
+
+Developed three extensive interactive lesson plans (20-50 pages each) communicating [cluster analysis](https://github.com/CalebSkinner1/NBACluster), [interrater reliability](https://github.com/CalebSkinner1/MMAKappa), and [logistic regression](https://github.com/CalebSkinner1/TennisLogistic), built in R Markdown and deployed through ISLE.
+
+**Mathematical Contest in Modeling — Problem C Co-Author** — *2024*
+
+**Skinner, C.**, & Sturdivant, R. (2024). *Momentum in Tennis*. Problem C, Mathematical Contest in Modeling (COMAP). [Problem statement](https://www.comap.org/membership/member-resources/item/momentum-in-tennis)
+
+Co-authored the 2024 MCM Problem C, sourcing and curating the dataset and drafting the data documentation. The problem was attempted by over 18,000 teams internationally, drawing on my undergraduate thesis work on psychological momentum.
