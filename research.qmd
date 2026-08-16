@@ -33,7 +33,7 @@ Derives the expected optimism for least squares ensembles under differing covari
 
 Interactive teaching tool details interrater reliability using data from Mixed Martial Arts judges.
 
-### Selected Projects
+### Select Projects
 
 [**Fantasy Dynasty**](https://github.com/CalebSkinner1/FantasyDynasty) —- *ongoing, 2024–present* · [Live dashboard](https://calebskinner.shinyapps.io/fantasy-dashboard/)
 
