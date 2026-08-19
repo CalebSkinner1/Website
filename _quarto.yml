@@ -6,6 +6,10 @@ project:
 
 website:
   title: "Caleb Skinner"
+  site-url: "https://calebskinner1.github.io/Website/"
+  description: "PhD student in Statistics at Rice University. Bayesian methods for variable selection and model aggregation."
+  open-graph: true
+  image: preview.jpg
   favicon: favicon.png
   open-graph: true
   navbar:
