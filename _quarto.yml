@@ -11,7 +11,6 @@ website:
   open-graph: true
   image: preview.jpg
   favicon: favicon.png
-  open-graph: true
   navbar:
     left:
       - href: index.qmd

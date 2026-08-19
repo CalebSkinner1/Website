@@ -78,7 +78,8 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Research – Caleb Skinner">
-<meta property="og:description" content="">
+<meta property="og:description" content="PhD student in Statistics at Rice University. Bayesian methods for variable selection and model aggregation.">
+<meta property="og:image" content="https://calebskinner1.github.io/Website/preview.jpg">
 <meta property="og:site_name" content="Caleb Skinner">
 </head>
 
@@ -208,8 +209,8 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Skinner, C.</strong>, Patrick, J., Bryson, C., &amp; Sturdivant, R. (2025). Mixed Martial Arts - Interrater Reliability. <em>The SCORE Network.</em> <a href="https://doi.org/10.17605/OSF.IO/F8VBQ">DOI</a></p>
 <p>Interactive teaching tool details interrater reliability using data from Mixed Martial Arts judges.</p>
 </section>
-<section id="selected-projects" class="level3">
-<h3 class="anchored" data-anchor-id="selected-projects">Selected Projects</h3>
+<section id="select-projects" class="level3">
+<h3 class="anchored" data-anchor-id="select-projects">Select Projects</h3>
 <p><a href="https://github.com/CalebSkinner1/FantasyDynasty"><strong>Fantasy Dynasty</strong></a> —- <em>ongoing, 2024–present</em> · <a href="https://calebskinner.shinyapps.io/fantasy-dashboard/">Live dashboard</a></p>
 <p>End-to-end system for valuing players, draft picks, and teams in a dynasty fantasy football league. Builds a value-added metric measuring each player’s contribution over a position-specific replacement, then projects future value with BART models and 10-year career simulations, modeling heteroskedastic residual variance with a GAM. Draft picks are valued through Bayesian polynomial regression with a custom Metropolis–Hastings sampler, and team standings are projected by simulating remaining weeks 5,000 times. Data is scraped and merged from four sources; results are served through a deployed R Shiny dashboard.</p>
 <p><a href="https://github.com/CalebSkinner1/Detecting-Presence-of-Brain-Aneurysms"><strong>Brain Aneurysm Detection and Localization</strong></a> – <em>course project, Fall 2025</em></p>
@@ -305,7 +306,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/calebskinner1\.github\.io\/Website\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
