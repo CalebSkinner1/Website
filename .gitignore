@@ -9,3 +9,5 @@ _site/
 
 **/*.quarto_ipynb
 skinner_transcript.pdf
+internship_board.xlsx
+~$internship_board.xlsx
